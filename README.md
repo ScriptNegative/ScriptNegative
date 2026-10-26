@@ -4,13 +4,20 @@
 
 ### Hey, I'm ScriptNegative 👋
 
-I've spent **7 years in technology**, building with **Python and other programming languages**. I currently run **VDNX** and have worked on **many blockchain projects**.
+I've spent **7 years in technology**, building with **Python and other programming languages**. I currently run **[VDNX](https://vdnx.tech/en/)** and have worked on **many blockchain projects**.
 
-These days, I'm especially interested in **AI, automation, and developer tools** — and how they can help people build better software.
+I'm a **cryptocurrency enthusiast**. These days, I'm also focused on **AI, automation, and developer tools** — and how they can help people build better software.
 
 <br />
 
 ### What I'm building
+
+**[VDNX](https://vdnx.tech/en/)**  
+My current business, building websites and Web3 solutions for clients. Our work spans web design and development, tokens, smart contracts, and blockchain-connected applications.
+
+Looking ahead, I want VDNX to develop its own products and initiatives in **Web3 and AI**, turning what we learn from client work into tools that solve practical problems.
+
+[Explore VDNX →](https://vdnx.tech/en/) · [The vision](https://vdnx.tech/en/vision/)
 
 **[RelayCrew](https://github.com/ScriptNegative/relaycrew)**  
 A lightweight skill for coordinating AI coding agents: focused tasks, clear file ownership, and useful handoffs. Built for Agent Skills-compatible tools, including Codex and Claude Code.
