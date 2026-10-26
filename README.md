@@ -4,7 +4,7 @@
 
 ### Hey, I'm ScriptNegative 👋
 
-I've spent several years in technology, learning programming languages and turning ideas into working projects. I enjoy figuring out how things work, writing code, and making useful tools a little simpler.
+I've spent **7 years in technology**, building with **Python and other programming languages**. I currently run **VDNX** and have worked on **many blockchain projects**.
 
 These days, I'm especially interested in **AI, automation, and developer tools** — and how they can help people build better software.
 
@@ -21,7 +21,6 @@ A lightweight skill for coordinating AI coding agents: focused tasks, clear file
 
 ### A few things about me
 
-- I write code in multiple programming languages and enjoy learning new ones.
 - I like lightweight solutions, clear interfaces, and tools that solve real problems.
 - I'm exploring practical ways to bring AI into everyday development.
 - I build, test, learn from the result, and keep improving.
