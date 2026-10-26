@@ -19,6 +19,11 @@ Looking ahead, I want VDNX to develop its own products and initiatives in **Web3
 
 [Explore VDNX →](https://vdnx.tech/en/) · [The vision](https://vdnx.tech/en/vision/)
 
+**[FixtureShrink](https://github.com/ScriptNegative/fixture-shrink)**  
+A lightweight Agent Skill and offline tool that reduces large failing JSON files into smaller, reproducible examples. It checks the target error and records replay evidence to help developers and coding agents investigate bugs.
+
+[Try the demo →](https://github.com/ScriptNegative/fixture-shrink#try-it-in-30-seconds) · [Download the skill](https://github.com/ScriptNegative/fixture-shrink/releases/latest)
+
 **[RelayCrew](https://github.com/ScriptNegative/relaycrew)**  
 A lightweight skill for coordinating AI coding agents: focused tasks, clear file ownership, and useful handoffs. Built for Agent Skills-compatible tools, including Codex and Claude Code.
 
