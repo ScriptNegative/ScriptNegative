@@ -20,7 +20,7 @@ Looking ahead, I want VDNX to develop its own products and initiatives in **Web3
 [Explore VDNX →](https://vdnx.tech/en/) · [The vision](https://vdnx.tech/en/vision/)
 
 **[FixtureShrink](https://github.com/ScriptNegative/fixture-shrink)**  
-A lightweight Agent Skill and offline tool that reduces large failing JSON files into smaller, reproducible examples. It checks the target error and records replay evidence to help developers and coding agents investigate bugs.
+A lightweight Agent Skill and offline tool that reduces large failing JSON files into smaller, reproducible examples. It replays a specific failure signature and records the evidence to help developers and coding agents investigate bugs.
 
 [Try the demo →](https://github.com/ScriptNegative/fixture-shrink#try-it-in-30-seconds) · [Download the skill](https://github.com/ScriptNegative/fixture-shrink/releases/latest)
 
